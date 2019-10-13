@@ -1,0 +1,2865 @@
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\insurgency2\insurgency\materials
+Loading E:\de_city_d.vmf
+Map revision 21
+Material not found!: MODELS/PROPS_WASTELAND/DIRTWALL001A
+Material not found!: BRICK/BRICKWALL003A
+Material not found!: TILE/TILEROOF003A
+Material not found!: BRICK/BRICKFLOOR001A
+Material not found!: NATURE/GRAVELFLOOR003A
+Material not found!: CONCRETE/CONCRETEFLOOR033K_C17
+Material not found!: CONCRETE/CONCRETEFLOOR033O
+Material not found!: NATURE/DIRTFLOOR013A
+Material not found!: CONCRETE/CONCRETEFLOOR028D
+Material not found!: STONE/STONEWALL033A
+Material not found!: BUILDING_TEMPLATE/BUILDING_TEMPLATE003N
+Material not found!: NATURE/GRASSFLOOR002A
+Material not found!: MODELS/PROPS_DEBRIS/CONCRETEWALL019A
+Material not found!: DE_TRAIN/TRAIN_OLDBRICK_01
+Material not found!: DE_CBBLE/CRATESM01
+Material not found!: CS_ITALY/PWOOD1
+Material not found!: CS_HAVANA/GROUND01DIRT
+Material not found!: WOOD/INFCEILINGA
+Material not found!: GLASS/GLASSWINDOW005C
+Patching WVT material: maps/de_city_d/maps/ramadi/blend_ram_dirt_01_tilesfloor001_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_dynamic (3184.00 -1904.00 48.36) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+done (0)
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Displacement A: Location: 200.000000 -2748.000000 39.000000
+Displacement B: Location: -316.000000 -2232.000000 39.000000
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (295933 bytes)
+Error loading studio model "models/props_c17/lamppost03a_on.mdl"!
+Error loading studio model "models/props_vehicles/car005a.mdl"!
+Error loading studio model "models/props_foliage/tree_poplar_01.mdl"!
+Error loading studio model "models/props_foliage/tree_deciduous_03b.mdl"!
+Error loading studio model "models/props_foliage/oak_tree01.mdl"!
+Error loading studio model "models/props_lab/lab_flourescentlight002b.mdl"!
+Error loading studio model "models/props_vehicles/car001a_hatchback.mdl"!
+Error loading studio model "models/props_vehicles/car005b.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1634 texinfos to 1456
+Reduced 34 texdatas to 30 (951 bytes to 815)
+Writing E:\de_city_d.bsp
+1 second elapsed
+
+
+
+12 threads
+reading e:\de_city_d.bsp
+reading e:\de_city_d.prt
+LoadPortals: couldn't read e:\de_city_d.prt
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\insurgency2\insurgency\materials
+Loading E:\de_city_d.vmf
+Map revision 21
+Material not found!: MODELS/PROPS_WASTELAND/DIRTWALL001A
+Material not found!: BRICK/BRICKWALL003A
+Material not found!: TILE/TILEROOF003A
+Material not found!: BRICK/BRICKFLOOR001A
+Material not found!: NATURE/GRAVELFLOOR003A
+Material not found!: CONCRETE/CONCRETEFLOOR033K_C17
+Material not found!: CONCRETE/CONCRETEFLOOR033O
+Material not found!: NATURE/DIRTFLOOR013A
+Material not found!: CONCRETE/CONCRETEFLOOR028D
+Material not found!: STONE/STONEWALL033A
+Material not found!: BUILDING_TEMPLATE/BUILDING_TEMPLATE003N
+Material not found!: NATURE/GRASSFLOOR002A
+Material not found!: MODELS/PROPS_DEBRIS/CONCRETEWALL019A
+Material not found!: DE_TRAIN/TRAIN_OLDBRICK_01
+Material not found!: DE_CBBLE/CRATESM01
+Material not found!: CS_ITALY/PWOOD1
+Material not found!: CS_HAVANA/GROUND01DIRT
+Material not found!: WOOD/INFCEILINGA
+Material not found!: GLASS/GLASSWINDOW005C
+Patching WVT material: maps/de_city_d/maps/ramadi/blend_ram_dirt_01_tilesfloor001_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_dynamic (3184.00 -1904.00 48.36) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+done (0)
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Displacement A: Location: 200.000000 -2748.000000 7489.402344
+Displacement B: Location: -316.000000 -2232.000000 39.000000
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (295933 bytes)
+Error loading studio model "models/props_c17/lamppost03a_on.mdl"!
+Error loading studio model "models/props_vehicles/car005a.mdl"!
+Error loading studio model "models/props_foliage/tree_poplar_01.mdl"!
+Error loading studio model "models/props_foliage/tree_deciduous_03b.mdl"!
+Error loading studio model "models/props_foliage/oak_tree01.mdl"!
+Error loading studio model "models/props_lab/lab_flourescentlight002b.mdl"!
+Error loading studio model "models/props_vehicles/car001a_hatchback.mdl"!
+Error loading studio model "models/props_vehicles/car005b.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1634 texinfos to 1456
+Reduced 34 texdatas to 30 (951 bytes to 815)
+Writing E:\de_city_d.bsp
+1 second elapsed
+
+
+
+12 threads
+reading e:\de_city_d.bsp
+reading e:\de_city_d.prt
+LoadPortals: couldn't read e:\de_city_d.prt
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\insurgency2\insurgency\materials
+Loading E:\de_city_d.vmf
+Map revision 21
+Material not found!: MODELS/PROPS_WASTELAND/DIRTWALL001A
+Material not found!: BRICK/BRICKWALL003A
+Material not found!: TILE/TILEROOF003A
+Material not found!: BRICK/BRICKFLOOR001A
+Material not found!: NATURE/GRAVELFLOOR003A
+Material not found!: CONCRETE/CONCRETEFLOOR033K_C17
+Material not found!: CONCRETE/CONCRETEFLOOR033O
+Material not found!: NATURE/DIRTFLOOR013A
+Material not found!: CONCRETE/CONCRETEFLOOR028D
+Material not found!: STONE/STONEWALL033A
+Material not found!: BUILDING_TEMPLATE/BUILDING_TEMPLATE003N
+Material not found!: NATURE/GRASSFLOOR002A
+Material not found!: MODELS/PROPS_DEBRIS/CONCRETEWALL019A
+Material not found!: DE_TRAIN/TRAIN_OLDBRICK_01
+Material not found!: DE_CBBLE/CRATESM01
+Material not found!: CS_ITALY/PWOOD1
+Material not found!: CS_HAVANA/GROUND01DIRT
+Material not found!: WOOD/INFCEILINGA
+Material not found!: GLASS/GLASSWINDOW005C
+Patching WVT material: maps/de_city_d/maps/ramadi/blend_ram_dirt_01_tilesfloor001_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_dynamic (3184.00 -1904.00 48.36) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+done (0)
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Displacement A: Location: 200.000000 -2748.000000 9243.523438
+Displacement B: Location: -316.000000 -2232.000000 39.000000
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (295933 bytes)
+Error loading studio model "models/props_c17/lamppost03a_on.mdl"!
+Error loading studio model "models/props_vehicles/car005a.mdl"!
+Error loading studio model "models/props_foliage/tree_poplar_01.mdl"!
+Error loading studio model "models/props_foliage/tree_deciduous_03b.mdl"!
+Error loading studio model "models/props_foliage/oak_tree01.mdl"!
+Error loading studio model "models/props_lab/lab_flourescentlight002b.mdl"!
+Error loading studio model "models/props_vehicles/car001a_hatchback.mdl"!
+Error loading studio model "models/props_vehicles/car005b.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1634 texinfos to 1456
+Reduced 34 texdatas to 30 (951 bytes to 815)
+Writing E:\de_city_d.bsp
+1 second elapsed
+
+
+
+12 threads
+reading e:\de_city_d.bsp
+reading e:\de_city_d.prt
+LoadPortals: couldn't read e:\de_city_d.prt
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\insurgency2\insurgency\materials
+Loading E:\de_city_d.vmf
+Map revision 22
+Material not found!: MODELS/PROPS_WASTELAND/DIRTWALL001A
+Material not found!: BRICK/BRICKWALL003A
+Material not found!: TILE/TILEROOF003A
+Material not found!: BRICK/BRICKFLOOR001A
+Material not found!: NATURE/GRAVELFLOOR003A
+Material not found!: CONCRETE/CONCRETEFLOOR033K_C17
+Material not found!: CONCRETE/CONCRETEFLOOR033O
+Material not found!: NATURE/DIRTFLOOR013A
+Material not found!: CONCRETE/CONCRETEFLOOR028D
+Material not found!: STONE/STONEWALL033A
+Material not found!: BUILDING_TEMPLATE/BUILDING_TEMPLATE003N
+Material not found!: NATURE/GRASSFLOOR002A
+Material not found!: MODELS/PROPS_DEBRIS/CONCRETEWALL019A
+Material not found!: DE_TRAIN/TRAIN_OLDBRICK_01
+Material not found!: DE_CBBLE/CRATESM01
+Material not found!: CS_ITALY/PWOOD1
+Material not found!: CS_HAVANA/GROUND01DIRT
+Material not found!: WOOD/INFCEILINGA
+Material not found!: GLASS/GLASSWINDOW005C
+Patching WVT material: maps/de_city_d/maps/ramadi/blend_ram_dirt_01_tilesfloor001_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_dynamic (3184.00 -1904.00 48.36) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+done (0)
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Displacement A: Location: 200.000000 -2748.000000 9242.929688
+Displacement B: Location: -316.000000 -2232.000000 39.000000
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (295933 bytes)
+Error loading studio model "models/props_c17/lamppost03a_on.mdl"!
+Error loading studio model "models/props_vehicles/car005a.mdl"!
+Error loading studio model "models/props_foliage/tree_poplar_01.mdl"!
+Error loading studio model "models/props_foliage/tree_deciduous_03b.mdl"!
+Error loading studio model "models/props_foliage/oak_tree01.mdl"!
+Error loading studio model "models/props_lab/lab_flourescentlight002b.mdl"!
+Error loading studio model "models/props_vehicles/car001a_hatchback.mdl"!
+Error loading studio model "models/props_vehicles/car005b.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1634 texinfos to 1456
+Reduced 34 texdatas to 30 (951 bytes to 815)
+Writing E:\de_city_d.bsp
+1 second elapsed
+
+
+
+12 threads
+reading e:\de_city_d.bsp
+reading e:\de_city_d.prt
+LoadPortals: couldn't read e:\de_city_d.prt
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\insurgency2\insurgency\materials
+Loading E:\de_city_d.vmf
+Map revision 23
+Material not found!: MODELS/PROPS_WASTELAND/DIRTWALL001A
+Material not found!: BRICK/BRICKWALL003A
+Material not found!: TILE/TILEROOF003A
+Material not found!: BRICK/BRICKFLOOR001A
+Material not found!: NATURE/GRAVELFLOOR003A
+Material not found!: CONCRETE/CONCRETEFLOOR033K_C17
+Material not found!: CONCRETE/CONCRETEFLOOR033O
+Material not found!: NATURE/DIRTFLOOR013A
+Material not found!: CONCRETE/CONCRETEFLOOR028D
+Material not found!: STONE/STONEWALL033A
+Material not found!: BUILDING_TEMPLATE/BUILDING_TEMPLATE003N
+Material not found!: NATURE/GRASSFLOOR002A
+Material not found!: MODELS/PROPS_DEBRIS/CONCRETEWALL019A
+Material not found!: DE_TRAIN/TRAIN_OLDBRICK_01
+Material not found!: DE_CBBLE/CRATESM01
+Material not found!: CS_ITALY/PWOOD1
+Material not found!: CS_HAVANA/GROUND01DIRT
+Material not found!: WOOD/INFCEILINGA
+Material not found!: GLASS/GLASSWINDOW005C
+Patching WVT material: maps/de_city_d/maps/ramadi/blend_ram_dirt_01_tilesfloor001_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_dynamic (3184.00 -1908.00 40.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+done (0)
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Displacement A: Location: 200.000000 -2748.000000 9242.554688
+Displacement B: Location: -316.000000 -2232.000000 39.000000
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (295933 bytes)
+Error loading studio model "models/props_c17/lamppost03a_on.mdl"!
+Error loading studio model "models/props_vehicles/car005a.mdl"!
+Error loading studio model "models/props_foliage/tree_poplar_01.mdl"!
+Error loading studio model "models/props_foliage/tree_deciduous_03b.mdl"!
+Error loading studio model "models/props_foliage/oak_tree01.mdl"!
+Error loading studio model "models/props_lab/lab_flourescentlight002b.mdl"!
+Error loading studio model "models/props_vehicles/car001a_hatchback.mdl"!
+Error loading studio model "models/props_vehicles/car005b.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1634 texinfos to 1456
+Reduced 34 texdatas to 30 (951 bytes to 815)
+Writing E:\de_city_d.bsp
+1 second elapsed
+
+
+
+12 threads
+reading e:\de_city_d.bsp
+reading e:\de_city_d.prt
+LoadPortals: couldn't read e:\de_city_d.prt
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\insurgency2\insurgency\materials
+Loading E:\de_city_d.vmf
+Map revision 24
+Material not found!: MODELS/PROPS_WASTELAND/DIRTWALL001A
+Material not found!: BRICK/BRICKWALL003A
+Material not found!: TILE/TILEROOF003A
+Material not found!: BRICK/BRICKFLOOR001A
+Material not found!: NATURE/GRAVELFLOOR003A
+Material not found!: CONCRETE/CONCRETEFLOOR033K_C17
+Material not found!: CONCRETE/CONCRETEFLOOR033O
+Material not found!: NATURE/DIRTFLOOR013A
+Material not found!: CONCRETE/CONCRETEFLOOR028D
+Material not found!: STONE/STONEWALL033A
+Material not found!: BUILDING_TEMPLATE/BUILDING_TEMPLATE003N
+Material not found!: NATURE/GRASSFLOOR002A
+Material not found!: MODELS/PROPS_DEBRIS/CONCRETEWALL019A
+Material not found!: DE_TRAIN/TRAIN_OLDBRICK_01
+Material not found!: DE_CBBLE/CRATESM01
+Material not found!: CS_ITALY/PWOOD1
+Material not found!: CS_HAVANA/GROUND01DIRT
+Material not found!: WOOD/INFCEILINGA
+Material not found!: GLASS/GLASSWINDOW005C
+Patching WVT material: maps/de_city_d/maps/ramadi/blend_ram_dirt_01_tilesfloor001_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_static (3184.00 -1908.00 40.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+done (0)
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Displacement A: Location: 200.000000 -2748.000000 9242.945313
+Displacement B: Location: -316.000000 -2232.000000 39.000000
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (295933 bytes)
+Error loading studio model "models/props_c17/lamppost03a_on.mdl"!
+Error loading studio model "models/props_vehicles/car005a.mdl"!
+Error loading studio model "models/props_foliage/tree_poplar_01.mdl"!
+Error loading studio model "models/props_foliage/tree_deciduous_03b.mdl"!
+Error loading studio model "models/props_foliage/oak_tree01.mdl"!
+Error loading studio model "models/props_lab/lab_flourescentlight002b.mdl"!
+Error loading studio model "models/props_vehicles/car001a_hatchback.mdl"!
+Error loading studio model "models/props_vehicles/car005b.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1634 texinfos to 1456
+Reduced 34 texdatas to 30 (951 bytes to 815)
+Writing E:\de_city_d.bsp
+1 second elapsed
+
+
+
+12 threads
+reading e:\de_city_d.bsp
+reading e:\de_city_d.prt
+LoadPortals: couldn't read e:\de_city_d.prt
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\insurgency2\insurgency\materials
+Loading E:\de_city_d.vmf
+Map revision 25
+Material not found!: MODELS/PROPS_WASTELAND/DIRTWALL001A
+Material not found!: BRICK/BRICKWALL003A
+Material not found!: TILE/TILEROOF003A
+Material not found!: BRICK/BRICKFLOOR001A
+Material not found!: NATURE/GRAVELFLOOR003A
+Material not found!: CONCRETE/CONCRETEFLOOR033K_C17
+Material not found!: CONCRETE/CONCRETEFLOOR033O
+Material not found!: NATURE/DIRTFLOOR013A
+Material not found!: CONCRETE/CONCRETEFLOOR028D
+Material not found!: STONE/STONEWALL033A
+Material not found!: BUILDING_TEMPLATE/BUILDING_TEMPLATE003N
+Material not found!: NATURE/GRASSFLOOR002A
+Material not found!: MODELS/PROPS_DEBRIS/CONCRETEWALL019A
+Material not found!: DE_TRAIN/TRAIN_OLDBRICK_01
+Material not found!: DE_CBBLE/CRATESM01
+Material not found!: CS_ITALY/PWOOD1
+Material not found!: CS_HAVANA/GROUND01DIRT
+Material not found!: WOOD/INFCEILINGA
+Material not found!: GLASS/GLASSWINDOW005C
+Patching WVT material: maps/de_city_d/maps/ramadi/blend_ram_dirt_01_tilesfloor001_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_dynamic (3344.00 -1888.00 48.35) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+done (0)
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Displacement A: Location: 200.000000 -2748.000000 9243.867188
+Displacement B: Location: -316.000000 -2232.000000 39.000000
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (295933 bytes)
+Error loading studio model "models/props_c17/lamppost03a_on.mdl"!
+Error loading studio model "models/props_vehicles/car005a.mdl"!
+Error loading studio model "models/props_foliage/tree_poplar_01.mdl"!
+Error loading studio model "models/props_foliage/tree_deciduous_03b.mdl"!
+Error loading studio model "models/props_foliage/oak_tree01.mdl"!
+Error loading studio model "models/props_lab/lab_flourescentlight002b.mdl"!
+Error loading studio model "models/props_vehicles/car001a_hatchback.mdl"!
+Error loading studio model "models/props_vehicles/car005b.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1634 texinfos to 1456
+Reduced 34 texdatas to 30 (951 bytes to 815)
+Writing E:\de_city_d.bsp
+1 second elapsed
+
+
+
+12 threads
+reading e:\de_city_d.bsp
+reading e:\de_city_d.prt
+LoadPortals: couldn't read e:\de_city_d.prt
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\insurgency2\insurgency\materials
+Loading E:\de_city_d.vmf
+Map revision 26
+Material not found!: MODELS/PROPS_WASTELAND/DIRTWALL001A
+Material not found!: BRICK/BRICKWALL003A
+Material not found!: TILE/TILEROOF003A
+Material not found!: BRICK/BRICKFLOOR001A
+Material not found!: NATURE/GRAVELFLOOR003A
+Material not found!: CONCRETE/CONCRETEFLOOR033K_C17
+Material not found!: CONCRETE/CONCRETEFLOOR033O
+Material not found!: NATURE/DIRTFLOOR013A
+Material not found!: CONCRETE/CONCRETEFLOOR028D
+Material not found!: STONE/STONEWALL033A
+Material not found!: BUILDING_TEMPLATE/BUILDING_TEMPLATE003N
+Material not found!: NATURE/GRASSFLOOR002A
+Material not found!: MODELS/PROPS_DEBRIS/CONCRETEWALL019A
+Material not found!: DE_TRAIN/TRAIN_OLDBRICK_01
+Material not found!: DE_CBBLE/CRATESM01
+Material not found!: CS_ITALY/PWOOD1
+Material not found!: CS_HAVANA/GROUND01DIRT
+Material not found!: WOOD/INFCEILINGA
+Material not found!: GLASS/GLASSWINDOW005C
+Patching WVT material: maps/de_city_d/maps/ramadi/blend_ram_dirt_01_tilesfloor001_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_static (3184.00 -1908.00 40.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+done (0)
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Displacement A: Location: 200.000000 -2748.000000 9243.601563
+Displacement B: Location: -316.000000 -2232.000000 39.000000
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (295933 bytes)
+Error loading studio model "models/props_c17/lamppost03a_on.mdl"!
+Error loading studio model "models/props_vehicles/car005a.mdl"!
+Error loading studio model "models/props_foliage/tree_poplar_01.mdl"!
+Error loading studio model "models/props_foliage/tree_deciduous_03b.mdl"!
+Error loading studio model "models/props_foliage/oak_tree01.mdl"!
+Error loading studio model "models/props_lab/lab_flourescentlight002b.mdl"!
+Error loading studio model "models/props_vehicles/car001a_hatchback.mdl"!
+Error loading studio model "models/props_vehicles/car005b.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1634 texinfos to 1456
+Reduced 34 texdatas to 30 (951 bytes to 815)
+Writing E:\de_city_d.bsp
+1 second elapsed
+
+
+
+12 threads
+reading e:\de_city_d.bsp
+reading e:\de_city_d.prt
+LoadPortals: couldn't read e:\de_city_d.prt
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\insurgency2\insurgency\materials
+Loading E:\de_city_d.vmf
+Map revision 27
+Material not found!: MODELS/PROPS_WASTELAND/DIRTWALL001A
+Material not found!: BRICK/BRICKWALL003A
+Material not found!: TILE/TILEROOF003A
+Material not found!: BRICK/BRICKFLOOR001A
+Material not found!: NATURE/GRAVELFLOOR003A
+Material not found!: CONCRETE/CONCRETEFLOOR033K_C17
+Material not found!: CONCRETE/CONCRETEFLOOR033O
+Material not found!: NATURE/DIRTFLOOR013A
+Material not found!: CONCRETE/CONCRETEFLOOR028D
+Material not found!: STONE/STONEWALL033A
+Material not found!: BUILDING_TEMPLATE/BUILDING_TEMPLATE003N
+Material not found!: NATURE/GRASSFLOOR002A
+Material not found!: MODELS/PROPS_DEBRIS/CONCRETEWALL019A
+Material not found!: DE_TRAIN/TRAIN_OLDBRICK_01
+Material not found!: DE_CBBLE/CRATESM01
+Material not found!: CS_ITALY/PWOOD1
+Material not found!: CS_HAVANA/GROUND01DIRT
+Material not found!: WOOD/INFCEILINGA
+Material not found!: GLASS/GLASSWINDOW005C
+Patching WVT material: maps/de_city_d/maps/ramadi/blend_ram_dirt_01_tilesfloor001_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+done (1)
+writing E:\de_city_d.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Displacement A: Location: 200.000000 -2748.000000 39.000000
+Displacement B: Location: -316.000000 -2232.000000 39.000000
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (298029 bytes)
+Error loading studio model "models/props_c17/lamppost03a_on.mdl"!
+Error loading studio model "models/props_vehicles/car005a.mdl"!
+Error loading studio model "models/props_foliage/tree_poplar_01.mdl"!
+Error loading studio model "models/props_foliage/tree_deciduous_03b.mdl"!
+Error loading studio model "models/props_foliage/oak_tree01.mdl"!
+Error loading studio model "models/props_lab/lab_flourescentlight002b.mdl"!
+Error loading studio model "models/props_vehicles/car001a_hatchback.mdl"!
+Error loading studio model "models/props_vehicles/car005b.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1637 texinfos to 1457
+Reduced 35 texdatas to 31 (970 bytes to 834)
+Writing E:\de_city_d.bsp
+2 seconds elapsed
+
+
+
+12 threads
+reading e:\de_city_d.bsp
+reading e:\de_city_d.prt
+2827 portalclusters
+9474 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 29216 visible clusters (0.00%)
+Total clusters visible: 2378891
+Average clusters visible: 841
+Building PAS...
+Average clusters audible: 2623
+visdatasize:1868277  compressed from 2035440
+writing e:\de_city_d.bsp
+42 minutes, 54 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\insurgency2\insurgency\materials
+Loading E:\de_city_d.vmf
+Map revision 35
+Material not found!: MODELS/PROPS_WASTELAND/DIRTWALL001A
+Material not found!: BRICK/BRICKWALL003A
+Material not found!: TILE/TILEROOF003A
+Material not found!: BRICK/BRICKFLOOR001A
+Material not found!: NATURE/GRAVELFLOOR003A
+Material not found!: CONCRETE/CONCRETEFLOOR033K_C17
+Material not found!: CONCRETE/CONCRETEFLOOR033O
+Material not found!: NATURE/DIRTFLOOR013A
+Material not found!: CONCRETE/CONCRETEFLOOR028D
+Material not found!: NATURE/GRASSFLOOR002A
+Material not found!: MODELS/PROPS_DEBRIS/CONCRETEWALL019A
+Material not found!: DE_TRAIN/TRAIN_OLDBRICK_01
+Material not found!: STONE/STONEWALL033A
+Material not found!: BUILDING_TEMPLATE/BUILDING_TEMPLATE003N
+Material not found!: WOOD/INFCEILINGA
+Material not found!: CS_ITALY/PWOOD1
+Material not found!: GLASS/GLASSWINDOW005C
+Patching WVT material: maps/de_city_d/maps/ramadi/blend_ram_dirt_01_tilesfloor001_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+done (0)
+writing E:\de_city_d.prt...Building visibility clusters...
+done (1)
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Displacement A: Location: 200.000000 -2748.000000 39.000000
+Displacement B: Location: -316.000000 -2232.000000 39.000000
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (304918 bytes)
+Error loading studio model "models/props_c17/lamppost03a_on.mdl"!
+Error loading studio model "models/props_vehicles/car005a.mdl"!
+Error loading studio model "models/props_foliage/tree_poplar_01.mdl"!
+Error loading studio model "models/props_foliage/tree_deciduous_03b.mdl"!
+Error loading studio model "models/props_foliage/oak_tree01.mdl"!
+Error loading studio model "models/props_lab/lab_flourescentlight002b.mdl"!
+Error loading studio model "models/props_vehicles/car001a_hatchback.mdl"!
+Error loading studio model "models/props_vehicles/car005b.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1695 texinfos to 1494
+Reduced 39 texdatas to 34 (1100 bytes to 928)
+Writing E:\de_city_d.bsp
+1 second elapsed
+
+
+
+12 threads
+reading e:\de_city_d.bsp
+reading e:\de_city_d.prt
+2861 portalclusters
+9603 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 29775 visible clusters (0.00%)
+Total clusters visible: 2424218
+Average clusters visible: 847
+Building PAS...
+Average clusters audible: 2656
+visdatasize:1908225  compressed from 2059920
+writing e:\de_city_d.bsp
+43 minutes, 15 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\insurgency2\insurgency\materials
+Loading E:\de_city_d.vmf
+Map revision 40
+Material not found!: MODELS/PROPS_WASTELAND/DIRTWALL001A
+Material not found!: BRICK/BRICKWALL003A
+Material not found!: TILE/TILEROOF003A
+Material not found!: BRICK/BRICKFLOOR001A
+Material not found!: NATURE/GRAVELFLOOR003A
+Material not found!: CONCRETE/CONCRETEFLOOR033K_C17
+Material not found!: CONCRETE/CONCRETEFLOOR033O
+Material not found!: NATURE/DIRTFLOOR013A
+Material not found!: CONCRETE/CONCRETEFLOOR028D
+Material not found!: NATURE/GRASSFLOOR002A
+Material not found!: MODELS/PROPS_DEBRIS/CONCRETEWALL019A
+Material not found!: DE_TRAIN/TRAIN_OLDBRICK_01
+Material not found!: STONE/STONEWALL033A
+Material not found!: BUILDING_TEMPLATE/BUILDING_TEMPLATE003N
+Material not found!: WOOD/INFCEILINGA
+Material not found!: CS_ITALY/PWOOD1
+Material not found!: GLASS/GLASSWINDOW005C
+Patching WVT material: maps/de_city_d/maps/ramadi/blend_ram_dirt_01_tilesfloor001_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+done (0)
+writing E:\de_city_d.prt...Building visibility clusters...
+done (1)
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Displacement A: Location: 200.000000 -2748.000000 39.000000
+Displacement B: Location: -316.000000 -2232.000000 39.000000
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (304918 bytes)
+Error loading studio model "models/props_c17/lamppost03a_on.mdl"!
+Error loading studio model "models/props_vehicles/car005a.mdl"!
+Error loading studio model "models/props_foliage/tree_poplar_01.mdl"!
+Error loading studio model "models/props_foliage/tree_deciduous_03b.mdl"!
+Error loading studio model "models/props_foliage/oak_tree01.mdl"!
+Error loading studio model "models/props_lab/lab_flourescentlight002b.mdl"!
+Error loading studio model "models/props_vehicles/car001a_hatchback.mdl"!
+Error loading studio model "models/props_vehicles/car005b.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1693 texinfos to 1494
+Reduced 39 texdatas to 34 (1100 bytes to 928)
+Writing E:\de_city_d.bsp
+1 second elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\insurgency2\insurgency\materials
+Loading E:\de_city_d.vmf
+Map revision 42
+Material not found!: MODELS/PROPS_WASTELAND/DIRTWALL001A
+Material not found!: BRICK/BRICKWALL003A
+Material not found!: TILE/TILEROOF003A
+Material not found!: BRICK/BRICKFLOOR001A
+Material not found!: NATURE/GRAVELFLOOR003A
+Material not found!: CONCRETE/CONCRETEFLOOR033K_C17
+Material not found!: CONCRETE/CONCRETEFLOOR033O
+Material not found!: NATURE/DIRTFLOOR013A
+Material not found!: CONCRETE/CONCRETEFLOOR028D
+Material not found!: NATURE/GRASSFLOOR002A
+Material not found!: MODELS/PROPS_DEBRIS/CONCRETEWALL019A
+Material not found!: DE_TRAIN/TRAIN_OLDBRICK_01
+Material not found!: STONE/STONEWALL033A
+Material not found!: BUILDING_TEMPLATE/BUILDING_TEMPLATE003N
+Material not found!: WOOD/INFCEILINGA
+Material not found!: CS_ITALY/PWOOD1
+Material not found!: GLASS/GLASSWINDOW005C
+Patching WVT material: maps/de_city_d/maps/ramadi/blend_ram_dirt_01_tilesfloor001_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+done (0)
+writing E:\de_city_d.prt...Building visibility clusters...
+done (1)
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Displacement A: Location: 200.000000 -2748.000000 39.000000
+Displacement B: Location: -316.000000 -2232.000000 39.000000
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (304918 bytes)
+Error loading studio model "models/props_c17/lamppost03a_on.mdl"!
+Error loading studio model "models/props_vehicles/car005a.mdl"!
+Error loading studio model "models/props_foliage/tree_poplar_01.mdl"!
+Error loading studio model "models/props_foliage/tree_deciduous_03b.mdl"!
+Error loading studio model "models/props_foliage/oak_tree01.mdl"!
+Error loading studio model "models/props_lab/lab_flourescentlight002b.mdl"!
+Error loading studio model "models/props_vehicles/car001a_hatchback.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1693 texinfos to 1494
+Reduced 39 texdatas to 34 (1100 bytes to 928)
+Writing E:\de_city_d.bsp
+1 second elapsed
+
+
+
+12 threads
+reading e:\de_city_d.bsp
+reading e:\de_city_d.prt
+2861 portalclusters
+9603 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 29781 visible clusters (0.00%)
+Total clusters visible: 2424226
+Average clusters visible: 847
+Building PAS...
+Average clusters audible: 2656
+visdatasize:1908225  compressed from 2059920
+writing e:\de_city_d.bsp
+45 minutes, 25 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\insurgency2\insurgency\materials
+Loading E:\de_city_d.vmf
+Map revision 52
+Brush 34901: bounds out of range
+Brush 34931: bounds out of range
+Material not found!: MODELS/PROPS_WASTELAND/DIRTWALL001A
+Material not found!: BRICK/BRICKWALL003A
+Material not found!: TILE/TILEROOF003A
+Material not found!: BRICK/BRICKFLOOR001A
+Material not found!: NATURE/GRAVELFLOOR003A
+Material not found!: CONCRETE/CONCRETEFLOOR033K_C17
+Material not found!: CONCRETE/CONCRETEFLOOR033O
+Material not found!: NATURE/DIRTFLOOR013A
+Material not found!: CONCRETE/CONCRETEFLOOR028D
+Material not found!: NATURE/GRASSFLOOR002A
+Material not found!: MODELS/PROPS_DEBRIS/CONCRETEWALL019A
+Material not found!: DE_TRAIN/TRAIN_OLDBRICK_01
+Material not found!: STONE/STONEWALL033A
+Material not found!: BUILDING_TEMPLATE/BUILDING_TEMPLATE003N
+Material not found!: WOOD/INFCEILINGA
+Material not found!: CS_ITALY/PWOOD1
+Material not found!: GLASS/GLASSWINDOW005C
+Patching WVT material: maps/de_city_d/maps/terrain/blend_af_peak_soil_04_wvt_patch
+Patching WVT material: maps/de_city_d/maps/ramadi/blend_ram_dirt_01_tilesfloor001_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+done (1)
+writing E:\de_city_d.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Displacement A: Location: 200.000000 -2748.000000 39.000000
+Displacement B: Location: -316.000000 -2232.000000 39.000000
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (314129 bytes)
+Error loading studio model "models/props_c17/lamppost03a_on.mdl"!
+Error loading studio model "models/props_vehicles/car005a.mdl"!
+Error loading studio model "models/props_foliage/tree_poplar_01.mdl"!
+Error loading studio model "models/props_foliage/tree_deciduous_03b.mdl"!
+Error loading studio model "models/props_foliage/oak_tree01.mdl"!
+Error loading studio model "models/props_lab/lab_flourescentlight002b.mdl"!
+Error loading studio model "models/props_vehicles/car001a_hatchback.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 1765 texinfos to 1528
+Reduced 44 texdatas to 37 (1334 bytes to 1062)
+Writing E:\de_city_d.bsp
+2 seconds elapsed
+
+
+
+12 threads
+reading e:\de_city_d.bsp
+reading e:\de_city_d.prt
+2942 portalclusters
+9994 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 31605 visible clusters (0.00%)
+Total clusters visible: 2864115
+Average clusters visible: 973
+Building PAS...
+Average clusters audible: 2936
+visdatasize:2011268  compressed from 2165312
+writing e:\de_city_d.bsp
+1 hour, 12 minutes, 0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\insurgency2\insurgency\materials
+Loading E:\de_city_d.vmf
+Map revision 62
+Brush 34901: bounds out of range
+Brush 34931: bounds out of range
+Material not found!: MODELS/PROPS_WASTELAND/DIRTWALL001A
+Material not found!: BRICK/BRICKWALL003A
+Material not found!: TILE/TILEROOF003A
+Material not found!: BRICK/BRICKFLOOR001A
+Material not found!: NATURE/GRAVELFLOOR003A
+Material not found!: CONCRETE/CONCRETEFLOOR033K_C17
+Material not found!: CONCRETE/CONCRETEFLOOR033O
+Material not found!: NATURE/DIRTFLOOR013A
+Material not found!: CONCRETE/CONCRETEFLOOR028D
+Material not found!: NATURE/GRASSFLOOR002A
+Material not found!: MODELS/PROPS_DEBRIS/CONCRETEWALL019A
+Material not found!: STONE/STONEWALL033A
+Material not found!: BUILDING_TEMPLATE/BUILDING_TEMPLATE003N
+Material not found!: WOOD/INFCEILINGA
+Material not found!: CS_ITALY/PWOOD1
+Patching WVT material: maps/de_city_d/maps/terrain/blend_af_peak_soil_04_wvt_patch
+Patching WVT material: maps/de_city_d/maps/ramadi/blend_ram_dirt_01_tilesfloor001_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+done (1)
+writing E:\de_city_d.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Displacement A: Location: 200.000000 -2748.000000 7360.753906
+Displacement B: Location: -316.000000 -2232.000000 39.000000
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (323541 bytes)
+Error loading studio model "models/props_c17/lamppost03a_on.mdl"!
+Error loading studio model "models/props_vehicles/car005a.mdl"!
+Error loading studio model "models/props_foliage/tree_poplar_01.mdl"!
+Error loading studio model "models/props_foliage/tree_deciduous_03b.mdl"!
+Error loading studio model "models/props_lab/lab_flourescentlight002b.mdl"!
+Error loading studio model "models/props_vehicles/car001a_hatchback.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 1779 texinfos to 1542
+Reduced 43 texdatas to 36 (1311 bytes to 1039)
+Writing E:\de_city_d.bsp
+1 second elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\insurgency2\insurgency\materials
+Loading E:\de_city_d.vmf
+Map revision 62
+Brush 34901: bounds out of range
+Brush 34931: bounds out of range
+Material not found!: MODELS/PROPS_WASTELAND/DIRTWALL001A
+Material not found!: BRICK/BRICKWALL003A
+Material not found!: TILE/TILEROOF003A
+Material not found!: BRICK/BRICKFLOOR001A
+Material not found!: NATURE/GRAVELFLOOR003A
+Material not found!: CONCRETE/CONCRETEFLOOR033K_C17
+Material not found!: CONCRETE/CONCRETEFLOOR033O
+Material not found!: NATURE/DIRTFLOOR013A
+Material not found!: CONCRETE/CONCRETEFLOOR028D
+Material not found!: NATURE/GRASSFLOOR002A
+Material not found!: MODELS/PROPS_DEBRIS/CONCRETEWALL019A
+Material not found!: STONE/STONEWALL033A
+Material not found!: BUILDING_TEMPLATE/BUILDING_TEMPLATE003N
+Material not found!: WOOD/INFCEILINGA
+Material not found!: CS_ITALY/PWOOD1
+Patching WVT material: maps/de_city_d/maps/terrain/blend_af_peak_soil_04_wvt_patch
+Patching WVT material: maps/de_city_d/maps/ramadi/blend_ram_dirt_01_tilesfloor001_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+done (1)
+writing E:\de_city_d.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Displacement A: Location: 200.000000 -2748.000000 39.000000
+Displacement B: Location: -316.000000 -2232.000000 39.000000
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (323541 bytes)
+Error loading studio model "models/props_c17/lamppost03a_on.mdl"!
+Error loading studio model "models/props_vehicles/car005a.mdl"!
+Error loading studio model "models/props_foliage/tree_poplar_01.mdl"!
+Error loading studio model "models/props_foliage/tree_deciduous_03b.mdl"!
+Error loading studio model "models/props_lab/lab_flourescentlight002b.mdl"!
+Error loading studio model "models/props_vehicles/car001a_hatchback.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 1779 texinfos to 1542
+Reduced 43 texdatas to 36 (1311 bytes to 1039)
+Writing E:\de_city_d.bsp
+2 seconds elapsed
+
+
+
+12 threads
+reading e:\de_city_d.bsp
+reading e:\de_city_d.prt
+3015 portalclusters
+10217 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\insurgency2\insurgency\materials
+Loading E:\de_city_d.vmf
+Map revision 65
+Brush 34901: bounds out of range
+Brush 34931: bounds out of range
+Material not found!: MODELS/PROPS_WASTELAND/DIRTWALL001A
+Material not found!: BRICK/BRICKWALL003A
+Material not found!: TILE/TILEROOF003A
+Material not found!: BRICK/BRICKFLOOR001A
+Material not found!: NATURE/GRAVELFLOOR003A
+Material not found!: CONCRETE/CONCRETEFLOOR033K_C17
+Material not found!: CONCRETE/CONCRETEFLOOR033O
+Material not found!: NATURE/DIRTFLOOR013A
+Material not found!: CONCRETE/CONCRETEFLOOR028D
+Material not found!: NATURE/GRASSFLOOR002A
+Material not found!: MODELS/PROPS_DEBRIS/CONCRETEWALL019A
+Material not found!: STONE/STONEWALL033A
+Material not found!: BUILDING_TEMPLATE/BUILDING_TEMPLATE003N
+Material not found!: WOOD/INFCEILINGA
+Material not found!: CS_ITALY/PWOOD1
+Patching WVT material: maps/de_city_d/maps/terrain/blend_af_peak_soil_04_wvt_patch
+Patching WVT material: maps/de_city_d/maps/ramadi/blend_ram_dirt_01_tilesfloor001_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+done (1)
+writing E:\de_city_d.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Displacement A: Location: 200.000000 -2748.000000 39.000000
+Displacement B: Location: -316.000000 -2232.000000 39.000000
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (323541 bytes)
+Error loading studio model "models/props_foliage/tree_poplar_01.mdl"!
+Error loading studio model "models/props_foliage/tree_deciduous_03b.mdl"!
+Error loading studio model "models/props_lab/lab_flourescentlight002b.mdl"!
+Error loading studio model "models/props_c17/lamppost03a_on.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1779 texinfos to 1542
+Reduced 43 texdatas to 36 (1311 bytes to 1039)
+Writing E:\de_city_d.bsp
+2 seconds elapsed
+
+
+
+12 threads
+reading e:\de_city_d.bsp
+reading e:\de_city_d.prt
+3015 portalclusters
+10217 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 33191 visible clusters (0.00%)
+Total clusters visible: 2911592
+Average clusters visible: 965
+Building PAS...
+Average clusters audible: 3009
+visdatasize:2056214  compressed from 2315520
+writing e:\de_city_d.bsp
+1 hour, 2 minutes, 5 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\insurgency2\insurgency\materials
+Loading E:\de_city_d.vmf
+Map revision 68
+Brush 34901: bounds out of range
+Brush 34931: bounds out of range
+Material not found!: MODELS/PROPS_WASTELAND/DIRTWALL001A
+Material not found!: BRICK/BRICKWALL003A
+Material not found!: TILE/TILEROOF003A
+Material not found!: BRICK/BRICKFLOOR001A
+Material not found!: NATURE/GRAVELFLOOR003A
+Material not found!: CONCRETE/CONCRETEFLOOR033K_C17
+Material not found!: CONCRETE/CONCRETEFLOOR033O
+Material not found!: NATURE/DIRTFLOOR013A
+Material not found!: CONCRETE/CONCRETEFLOOR028D
+Material not found!: NATURE/GRASSFLOOR002A
+Material not found!: MODELS/PROPS_DEBRIS/CONCRETEWALL019A
+Material not found!: STONE/STONEWALL033A
+Material not found!: BUILDING_TEMPLATE/BUILDING_TEMPLATE003N
+Material not found!: WOOD/INFCEILINGA
+Material not found!: CS_ITALY/PWOOD1
+Patching WVT material: maps/de_city_d/maps/terrain/blend_af_peak_soil_04_wvt_patch
+Patching WVT material: maps/de_city_d/maps/ramadi/blend_ram_dirt_01_tilesfloor001_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 2 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+done (1)
+writing E:\de_city_d.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Displacement A: Location: 200.000000 -2748.000000 9243.210938
+Displacement B: Location: -316.000000 -2232.000000 39.000000
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (323422 bytes)
+Error loading studio model "models/props_foliage/tree_poplar_01.mdl"!
+Error loading studio model "models/props_foliage/tree_deciduous_03b.mdl"!
+Error loading studio model "models/props_lab/lab_flourescentlight002b.mdl"!
+Error loading studio model "models/props_c17/lamppost03a_on.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1769 texinfos to 1532
+Reduced 39 texdatas to 33 (1146 bytes to 939)
+Writing E:\de_city_d.bsp
+1 second elapsed
+
+
+
+12 threads
+reading e:\de_city_d.bsp
+reading e:\de_city_d.prt
+3005 portalclusters
+10224 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\insurgency2\insurgency\materials
+Loading E:\de_city_d.vmf
+Map revision 68
+Brush 34901: bounds out of range
+Brush 34931: bounds out of range
+Material not found!: MODELS/PROPS_WASTELAND/DIRTWALL001A
+Material not found!: BRICK/BRICKWALL003A
+Material not found!: TILE/TILEROOF003A
+Material not found!: BRICK/BRICKFLOOR001A
+Material not found!: NATURE/GRAVELFLOOR003A
+Material not found!: CONCRETE/CONCRETEFLOOR033K_C17
+Material not found!: CONCRETE/CONCRETEFLOOR033O
+Material not found!: NATURE/DIRTFLOOR013A
+Material not found!: CONCRETE/CONCRETEFLOOR028D
+Material not found!: NATURE/GRASSFLOOR002A
+Material not found!: MODELS/PROPS_DEBRIS/CONCRETEWALL019A
+Material not found!: STONE/STONEWALL033A
+Material not found!: BUILDING_TEMPLATE/BUILDING_TEMPLATE003N
+Material not found!: WOOD/INFCEILINGA
+Material not found!: CS_ITALY/PWOOD1
+Patching WVT material: maps/de_city_d/maps/terrain/blend_af_peak_soil_04_wvt_patch
+Patching WVT material: maps/de_city_d/maps/ramadi/blend_ram_dirt_01_tilesfloor001_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 2 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+done (1)
+writing E:\de_city_d.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Displacement A: Location: 200.000000 -2748.000000 39.000000
+Displacement B: Location: -316.000000 -2232.000000 39.000000
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (323422 bytes)
+Error loading studio model "models/props_foliage/tree_poplar_01.mdl"!
+Error loading studio model "models/props_foliage/tree_deciduous_03b.mdl"!
+Error loading studio model "models/props_lab/lab_flourescentlight002b.mdl"!
+Error loading studio model "models/props_c17/lamppost03a_on.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1769 texinfos to 1532
+Reduced 39 texdatas to 33 (1146 bytes to 939)
+Writing E:\de_city_d.bsp
+1 second elapsed
+
+
+
+12 threads
+reading e:\de_city_d.bsp
+reading e:\de_city_d.prt
+3005 portalclusters
+10224 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\insurgency2\insurgency\materials
+Loading E:\de_city_d.vmf
+Map revision 68
+Brush 34901: bounds out of range
+Brush 34931: bounds out of range
+Material not found!: MODELS/PROPS_WASTELAND/DIRTWALL001A
+Material not found!: BRICK/BRICKWALL003A
+Material not found!: TILE/TILEROOF003A
+Material not found!: BRICK/BRICKFLOOR001A
+Material not found!: NATURE/GRAVELFLOOR003A
+Material not found!: CONCRETE/CONCRETEFLOOR033K_C17
+Material not found!: CONCRETE/CONCRETEFLOOR033O
+Material not found!: NATURE/DIRTFLOOR013A
+Material not found!: CONCRETE/CONCRETEFLOOR028D
+Material not found!: NATURE/GRASSFLOOR002A
+Material not found!: MODELS/PROPS_DEBRIS/CONCRETEWALL019A
+Material not found!: STONE/STONEWALL033A
+Material not found!: BUILDING_TEMPLATE/BUILDING_TEMPLATE003N
+Material not found!: WOOD/INFCEILINGA
+Material not found!: CS_ITALY/PWOOD1
+Patching WVT material: maps/de_city_d/maps/terrain/blend_af_peak_soil_04_wvt_patch
+Patching WVT material: maps/de_city_d/maps/ramadi/blend_ram_dirt_01_tilesfloor001_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 2 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+done (1)
+writing E:\de_city_d.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Displacement A: Location: 200.000000 -2748.000000 39.000000
+Displacement B: Location: -316.000000 -2232.000000 39.000000
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (323422 bytes)
+Error loading studio model "models/props_foliage/tree_poplar_01.mdl"!
+Error loading studio model "models/props_foliage/tree_deciduous_03b.mdl"!
+Error loading studio model "models/props_lab/lab_flourescentlight002b.mdl"!
+Error loading studio model "models/props_c17/lamppost03a_on.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1769 texinfos to 1532
+Reduced 39 texdatas to 33 (1146 bytes to 939)
+Writing E:\de_city_d.bsp
+1 second elapsed
+
+
+
+12 threads
+reading e:\de_city_d.bsp
+reading e:\de_city_d.prt
+3005 portalclusters
+10224 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 31347 visible clusters (0.00%)
+Total clusters visible: 2735378
+Average clusters visible: 910
+Building PAS...
+Average clusters audible: 2990
+visdatasize:2037923  compressed from 2259760
+writing e:\de_city_d.bsp
+1 hour, 6 minutes, 38 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[4 texlights parsed from 'lights.rad']
+
+Loading e:\de_city_d.bsp
+11294 faces
+4981034 square feet [717268864.00 square inches]
+192 Displacements
+100994 Square Feet [14543167.00 Square Inches]
+11294 patches before subdivision
+345650 patches after subdivision
+449 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 66281659, max 3397
+transfer lists: 505.7 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(1118409, 1109510, 846842)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(265832, 217885, 118524)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(65368, 44623, 17754)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(16290, 9250, 2711)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(4123, 1958, 435)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(1056, 422, 75)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(274, 93, 15)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(72, 22, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(19, 5, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(5, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.2732 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   9/1024          432/49152    ( 0.9%) 
+brushes                880/8192        10560/98304    (10.7%) 
+brushsides            5509/65536       44072/524288   ( 8.4%) 
+planes                3962/65536       79240/1310720  ( 6.0%) 
+vertexes             15634/65536      187608/786432   (23.9%) 
+nodes                 5046/65536      161472/2097152  ( 7.7%) 
+texinfos              1532/12288      110304/884736   (12.5%) 
+texdata                 33/2048         1056/65536    ( 1.6%) 
+dispinfos              192/0           33792/0        ( 0.0%) 
+disp_verts           15552/0          311040/0        ( 0.0%) 
+disp_tris            24576/0           49152/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples      290824/0          290824/0        ( 0.0%) 
+faces                11294/65536      632464/3670016  (17.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             3533/65536      197848/3670016  ( 5.4%) 
+facebrushes           1740/0            3480/0        ( 0.0%) 
+facebrushlists       11294/0           45176/0        ( 0.0%) 
+leaves                5056/65536      161792/2097152  ( 7.7%) 
+leaffaces            12755/65536       25510/131072   (19.5%) 
+leafbrushes           2706/65536        5412/131072   ( 4.1%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            66659/512000     266636/2048000  (13.0%) 
+edges                35519/256000     142076/1024000  (13.9%) 
+LDR worldlights        449/8192        44900/819200   ( 5.5%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips           1057/32768       10570/327680   ( 3.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         16530/65536       33060/131072   (25.2%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]    37440724/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     2037923/16777216 (12.1%) 
+entdata               [variable]      454953/393216   (115.7%) VERY FULL!
+LDR ambient table     5056/65536       20224/262144   ( 7.7%) 
+HDR ambient table     5056/65536       20224/262144   ( 7.7%) 
+LDR leaf ambient     29363/65536      822164/1835008  (44.8%) 
+HDR leaf ambient      5056/65536      141568/1835008  ( 7.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/1072     ( 0.1%) 
+pakfile               [variable]        1661/0        ( 0.0%) 
+physics               [variable]      323422/4194304  ( 7.7%) 
+physics terrain       [variable]       14672/1048576  ( 1.4%) 
+
+Level flags = 4
+
+Total triangle count: 30019
+Writing e:\de_city_d.bsp
+6 hours, 14 minutes, 19 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\insurgency2\insurgency\materials
+Loading E:\de_city_d.vmf
+Map revision 68
+Material not found!: MODELS/PROPS_WASTELAND/DIRTWALL001A
+Material not found!: BRICK/BRICKWALL003A
+Material not found!: TILE/TILEROOF003A
+Material not found!: BRICK/BRICKFLOOR001A
+Material not found!: NATURE/GRAVELFLOOR003A
+Material not found!: CONCRETE/CONCRETEFLOOR033K_C17
+Material not found!: CONCRETE/CONCRETEFLOOR033O
+Material not found!: NATURE/DIRTFLOOR013A
+Material not found!: CONCRETE/CONCRETEFLOOR028D
+Material not found!: NATURE/GRASSFLOOR002A
+Material not found!: MODELS/PROPS_DEBRIS/CONCRETEWALL019A
+Material not found!: STONE/STONEWALL033A
+Material not found!: BUILDING_TEMPLATE/BUILDING_TEMPLATE003N
+Material not found!: WOOD/INFCEILINGA
+Material not found!: CS_ITALY/PWOOD1
+Patching WVT material: maps/de_city_d/maps/terrain/blend_af_peak_soil_04_wvt_patch
+Patching WVT material: maps/de_city_d/maps/ramadi/blend_ram_dirt_01_tilesfloor001_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 2 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+done (1)
+writing E:\de_city_d.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Displacement A: Location: 200.000000 -2748.000000 4897.042969
+Displacement B: Location: -316.000000 -2232.000000 39.000000
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (323422 bytes)
+Error loading studio model "models/props_foliage/tree_poplar_01.mdl"!
+Error loading studio model "models/props_foliage/tree_deciduous_03b.mdl"!
+Error loading studio model "models/props_lab/lab_flourescentlight002b.mdl"!
+Error loading studio model "models/props_c17/lamppost03a_on.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1769 texinfos to 1532
+Reduced 39 texdatas to 33 (1146 bytes to 939)
+Writing E:\de_city_d.bsp
+1 second elapsed
+
+
+
+12 threads
+reading e:\de_city_d.bsp
+reading e:\de_city_d.prt
+3005 portalclusters
+10226 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\insurgency2\insurgency\materials
+Loading E:\de_city_d.vmf
+Map revision 72
+Material not found!: MODELS/PROPS_WASTELAND/DIRTWALL001A
+Material not found!: BRICK/BRICKWALL003A
+Material not found!: TILE/TILEROOF003A
+Material not found!: BRICK/BRICKFLOOR001A
+Material not found!: NATURE/GRAVELFLOOR003A
+Material not found!: CONCRETE/CONCRETEFLOOR033K_C17
+Material not found!: CONCRETE/CONCRETEFLOOR033O
+Material not found!: MODELS/PROPS_DEBRIS/CONCRETEWALL019A
+Material not found!: STONE/STONEWALL033A
+Material not found!: BUILDING_TEMPLATE/BUILDING_TEMPLATE003N
+Material not found!: WOOD/INFCEILINGA
+Material not found!: CS_ITALY/PWOOD1
+Material not found!: NATURE/GRASSFLOOR002A
+Patching WVT material: maps/de_city_d/maps/terrain/blend_af_peak_soil_04_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 2 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing E:\de_city_d.prt...Building visibility clusters...
+done (1)
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Displacement A: Location: 200.000000 -2748.000000 6688.441406
+Displacement B: Location: -316.000000 -2232.000000 39.000000
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (323410 bytes)
+Error loading studio model "models/props_foliage/tree_poplar_01.mdl"!
+Error loading studio model "models/props_foliage/tree_deciduous_03b.mdl"!
+Error loading studio model "models/props_lab/lab_flourescentlight002b.mdl"!
+Error loading studio model "models/props_c17/lamppost03a_on.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1782 texinfos to 1539
+Reduced 36 texdatas to 30 (1026 bytes to 800)
+Writing E:\de_city_d.bsp
+1 second elapsed
+
+
+
+12 threads
+reading e:\de_city_d.bsp
+reading e:\de_city_d.prt
+3079 portalclusters
+10544 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\insurgency2\insurgency\materials
+Loading E:\de_city_d.vmf
+Map revision 90
+Material not found!: MODELS/PROPS_WASTELAND/DIRTWALL001A
+Material not found!: BRICK/BRICKWALL003A
+Material not found!: TILE/TILEROOF003A
+Material not found!: BRICK/BRICKFLOOR001A
+Material not found!: NATURE/GRAVELFLOOR003A
+Material not found!: MODELS/PROPS_DEBRIS/CONCRETEWALL019A
+Material not found!: STONE/STONEWALL033A
+Material not found!: BUILDING_TEMPLATE/BUILDING_TEMPLATE003N
+Material not found!: WOOD/INFCEILINGA
+Material not found!: CS_ITALY/PWOOD1
+Material not found!: NATURE/GRASSFLOOR002A
+Patching WVT material: maps/de_city_d/maps/terrain/blend_af_peak_soil_04_wvt_patch
+Patching WVT material: maps/de_city_d/maps/kandagal/blend_dirt_mud_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 2 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing E:\de_city_d.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Displacement A: Location: 6849.837891 -2748.000000 6687.980469
+Displacement B: Location: -316.000000 -2232.000000 39.000000
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (407942 bytes)
+Error loading studio model "models/props_foliage/tree_poplar_01.mdl"!
+Error loading studio model "models/props_lab/lab_flourescentlight002b.mdl"!
+Error loading studio model "models/props_c17/lamppost03a_on.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1979 texinfos to 1656
+Reduced 38 texdatas to 33 (1079 bytes to 895)
+Writing E:\de_city_d.bsp
+2 seconds elapsed
+
+
+
+12 threads
+reading e:\de_city_d.bsp
+reading e:\de_city_d.prt
+3493 portalclusters
+11595 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\insurgency2\insurgency\materials
+Loading E:\de_city_d.vmf
+Map revision 93
+Material not found!: MODELS/PROPS_WASTELAND/DIRTWALL001A
+Material not found!: BRICK/BRICKWALL003A
+Material not found!: TILE/TILEROOF003A
+Material not found!: BRICK/BRICKFLOOR001A
+Material not found!: NATURE/GRAVELFLOOR003A
+Material not found!: MODELS/PROPS_DEBRIS/CONCRETEWALL019A
+Material not found!: STONE/STONEWALL033A
+Material not found!: BUILDING_TEMPLATE/BUILDING_TEMPLATE003N
+Material not found!: WOOD/INFCEILINGA
+Material not found!: CS_ITALY/PWOOD1
+Material not found!: NATURE/GRASSFLOOR002A
+Patching WVT material: maps/de_city_d/maps/terrain/blend_af_peak_soil_04_wvt_patch
+Patching WVT material: maps/de_city_d/maps/kandagal/blend_dirt_mud_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 2 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing E:\de_city_d.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Displacement A: Location: 200.000000 -2748.000000 4896.363281
+Displacement B: Location: -316.000000 -2232.000000 39.000000
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (400718 bytes)
+Error loading studio model "models/props_foliage/tree_poplar_01.mdl"!
+Error loading studio model "models/props_lab/lab_flourescentlight002b.mdl"!
+Error loading studio model "models/props_c17/lamppost03a_on.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1966 texinfos to 1647
+Reduced 38 texdatas to 33 (1079 bytes to 895)
+Writing E:\de_city_d.bsp
+2 seconds elapsed
+
+
+
+12 threads
+reading e:\de_city_d.bsp
+reading e:\de_city_d.prt
+3447 portalclusters
+11522 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 41176 visible clusters (0.00%)
+Total clusters visible: 3177281
+Average clusters visible: 921
+Building PAS...
+Average clusters audible: 3426
+visdatasize:2589056  compressed from 2978208
+writing e:\de_city_d.bsp
+1 hour, 9 minutes, 35 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\insurgency2\insurgency\materials
+Loading E:\de_city_d.vmf
+Map revision 95
+Material not found!: MODELS/PROPS_WASTELAND/DIRTWALL001A
+Material not found!: BRICK/BRICKWALL003A
+Material not found!: TILE/TILEROOF003A
+Material not found!: BRICK/BRICKFLOOR001A
+Material not found!: NATURE/GRAVELFLOOR003A
+Material not found!: MODELS/PROPS_DEBRIS/CONCRETEWALL019A
+Material not found!: STONE/STONEWALL033A
+Material not found!: BUILDING_TEMPLATE/BUILDING_TEMPLATE003N
+Material not found!: WOOD/INFCEILINGA
+Material not found!: CS_ITALY/PWOOD1
+Material not found!: NATURE/GRASSFLOOR002A
+Patching WVT material: maps/de_city_d/maps/terrain/blend_af_peak_soil_04_wvt_patch
+Patching WVT material: maps/de_city_d/maps/kandagal/blend_dirt_mud_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 2 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing E:\de_city_d.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Displacement A: Location: 6849.722656 -2748.000000 6687.824219
+Displacement B: Location: -316.000000 -2232.000000 39.000000
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (423374 bytes)
+Error loading studio model "models/props_foliage/tree_poplar_01.mdl"!
+Error loading studio model "models/props_lab/lab_flourescentlight002b.mdl"!
+Error loading studio model "models/props_c17/lamppost03a_on.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2076 texinfos to 1724
+Reduced 44 texdatas to 39 (1277 bytes to 1093)
+Writing E:\de_city_d.bsp
+2 seconds elapsed
+
+
+
+12 threads
+reading e:\de_city_d.bsp
+reading e:\de_city_d.prt
+3592 portalclusters
+11888 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2..
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\insurgency2\insurgency\materials
+Loading E:\de_city_d.vmf
+Map revision 97
+Material not found!: MODELS/PROPS_WASTELAND/DIRTWALL001A
+Material not found!: BRICK/BRICKWALL003A
+Material not found!: TILE/TILEROOF003A
+Material not found!: BRICK/BRICKFLOOR001A
+Material not found!: NATURE/GRAVELFLOOR003A
+Material not found!: MODELS/PROPS_DEBRIS/CONCRETEWALL019A
+Material not found!: STONE/STONEWALL033A
+Material not found!: BUILDING_TEMPLATE/BUILDING_TEMPLATE003N
+Material not found!: WOOD/INFCEILINGA
+Material not found!: CS_ITALY/PWOOD1
+Material not found!: NATURE/GRASSFLOOR002A
+Patching WVT material: maps/de_city_d/maps/terrain/blend_af_peak_soil_04_wvt_patch
+Patching WVT material: maps/de_city_d/maps/kandagal/blend_dirt_mud_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 2 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing E:\de_city_d.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Displacement A: Location: 6848.853516 1928093468097038700000000000000000.000000 6687.863281
+Displacement B: Location: -316.000000 -2232.000000 39.000000
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (424488 bytes)
+Error loading studio model "models/props_foliage/tree_poplar_01.mdl"!
+Error loading studio model "models/props_lab/lab_flourescentlight002b.mdl"!
+Error loading studio model "models/props_c17/lamppost03a_on.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2087 texinfos to 1730
+Reduced 45 texdatas to 40 (1304 bytes to 1120)
+Writing E:\de_city_d.bsp
+2 seconds elapsed
+
+
+
+12 threads
+reading e:\de_city_d.bsp
+reading e:\de_city_d.prt
+3592 portalclusters
+11888 numportals
+0...1...2...3...4...5...6...7...8...9...100...1..
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\insurgency2\insurgency\materials
+Loading E:\de_city_d.vmf
+Map revision 98
+Material not found!: MODELS/PROPS_WASTELAND/DIRTWALL001A
+Material not found!: BRICK/BRICKWALL003A
+Material not found!: TILE/TILEROOF003A
+Material not found!: BRICK/BRICKFLOOR001A
+Material not found!: NATURE/GRAVELFLOOR003A
+Material not found!: MODELS/PROPS_DEBRIS/CONCRETEWALL019A
+Material not found!: STONE/STONEWALL033A
+Material not found!: BUILDING_TEMPLATE/BUILDING_TEMPLATE003N
+Material not found!: WOOD/INFCEILINGA
+Material not found!: CS_ITALY/PWOOD1
+Material not found!: NATURE/GRASSFLOOR002A
+Patching WVT material: maps/de_city_d/maps/terrain/blend_af_peak_soil_04_wvt_patch
+Patching WVT material: maps/de_city_d/maps/kandagal/blend_dirt_mud_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 2 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing E:\de_city_d.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Displacement A: Location: 200.000000 -2748.000000 6687.824219
+Displacement B: Location: -316.000000 -2232.000000 39.000000
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (425602 bytes)
+Error loading studio model "models/props_foliage/tree_poplar_01.mdl"!
+Error loading studio model "models/props_lab/lab_flourescentlight002b.mdl"!
+Error loading studio model "models/props_c17/lamppost03a_on.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2099 texinfos to 1736
+Reduced 45 texdatas to 40 (1304 bytes to 1120)
+Writing E:\de_city_d.bsp
+2 seconds elapsed
+
+
+
+12 threads
+reading e:\de_city_d.bsp
+reading e:\de_city_d.prt
+3592 portalclusters
+11888 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\insurgency2\insurgency\materials
+Loading E:\de_city_d.vmf
+Map revision 99
+Material not found!: MODELS/PROPS_WASTELAND/DIRTWALL001A
+Material not found!: BRICK/BRICKWALL003A
+Material not found!: TILE/TILEROOF003A
+Material not found!: BRICK/BRICKFLOOR001A
+Material not found!: NATURE/GRAVELFLOOR003A
+Material not found!: MODELS/PROPS_DEBRIS/CONCRETEWALL019A
+Material not found!: STONE/STONEWALL033A
+Material not found!: BUILDING_TEMPLATE/BUILDING_TEMPLATE003N
+Material not found!: WOOD/INFCEILINGA
+Material not found!: CS_ITALY/PWOOD1
+Material not found!: NATURE/GRASSFLOOR002A
+Patching WVT material: maps/de_city_d/maps/terrain/blend_af_peak_soil_04_wvt_patch
+Patching WVT material: maps/de_city_d/maps/kandagal/blend_dirt_mud_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing E:\de_city_d.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Displacement A: Location: 200.000000 -2748.000000 6688.707031
+Displacement B: Location: -316.000000 -2232.000000 39.000000
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (423940 bytes)
+Error loading studio model "models/props_foliage/tree_poplar_01.mdl"!
+Error loading studio model "models/props_lab/lab_flourescentlight002b.mdl"!
+Error loading studio model "models/props_c17/lamppost03a_on.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2097 texinfos to 1738
+Reduced 45 texdatas to 40 (1303 bytes to 1119)
+Writing E:\de_city_d.bsp
+2 seconds elapsed
+
+
+
+12 threads
+reading e:\de_city_d.bsp
+reading e:\de_city_d.prt
+3486 portalclusters
+11583 numportals
+0...1...2...3...4...5...6...7...8...9...100...1.
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\insurgency2\insurgency\materials
+Loading E:\de_city_d.vmf
+Map revision 103
+Material not found!: MODELS/PROPS_WASTELAND/DIRTWALL001A
+Material not found!: BRICK/BRICKWALL003A
+Material not found!: TILE/TILEROOF003A
+Material not found!: BRICK/BRICKFLOOR001A
+Material not found!: NATURE/GRAVELFLOOR003A
+Material not found!: MODELS/PROPS_DEBRIS/CONCRETEWALL019A
+Material not found!: STONE/STONEWALL033A
+Material not found!: BUILDING_TEMPLATE/BUILDING_TEMPLATE003N
+Material not found!: NATURE/GRASSFLOOR002A
+Patching WVT material: maps/de_city_d/maps/terrain/blend_af_peak_soil_04_wvt_patch
+Patching WVT material: maps/de_city_d/maps/kandagal/blend_dirt_mud_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing E:\de_city_d.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Displacement A: Location: 200.000000 -2748.000000 39.000000
+Displacement B: Location: -316.000000 -2232.000000 39.000000
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (423939 bytes)
+Error loading studio model "models/props_foliage/tree_poplar_01.mdl"!
+Error loading studio model "models/props_lab/lab_flourescentlight002b.mdl"!
+Error loading studio model "models/props_c17/lamppost03a_on.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2125 texinfos to 1764
+Reduced 48 texdatas to 43 (1418 bytes to 1234)
+Writing E:\de_city_d.bsp
+1 second elapsed
+
+
+
+12 threads
+reading e:\de_city_d.bsp
+reading e:\de_city_d.prt
+3486 portalclusters
+11583 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\insurgency2\insurgency\materials
+Loading E:\de_city_d.vmf
+Map revision 116
+Material not found!: MODELS/PROPS_WASTELAND/DIRTWALL001A
+Material not found!: BRICK/BRICKWALL003A
+Material not found!: TILE/TILEROOF003A
+Material not found!: BRICK/BRICKFLOOR001A
+Material not found!: NATURE/GRAVELFLOOR003A
+Material not found!: MODELS/PROPS_DEBRIS/CONCRETEWALL019A
+Material not found!: STONE/STONEWALL033A
+Material not found!: BUILDING_TEMPLATE/BUILDING_TEMPLATE003N
+Material not found!: NATURE/GRASSFLOOR002A
+Patching WVT material: maps/de_city_d/maps/terrain/blend_af_peak_soil_04_wvt_patch
+Patching WVT material: maps/de_city_d/maps/kandagal/blend_dirt_mud_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing E:\de_city_d.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Displacement A: Location: 1732092.000000 -2748.000000 39.000000
+Displacement B: Location: -316.000000 -2232.000000 39.000000
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (508896 bytes)
+Error loading studio model "models/props_foliage/tree_poplar_01.mdl"!
+Error loading studio model "models/props_c17/lamppost03a_on.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2392 texinfos to 2001
+Reduced 51 texdatas to 46 (1490 bytes to 1306)
+Writing E:\de_city_d.bsp
+2 seconds elapsed
+
+
+
+12 threads
+reading e:\de_city_d.bsp
+reading e:\de_city_d.prt
+4053 portalclusters
+13544 numportals
+0...1...2...3...4...5...6...7...8...9...100...1..
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\insurgency2\insurgency\materials
+Loading E:\de_city_d.vmf
+Map revision 126
+Material not found!: BUILDING_TEMPLATE/BUILDING_TEMPLATE003N
+Material not found!: STONE/STONEWALL033A
+Material not found!: MODELS/PROPS_WASTELAND/DIRTWALL001A
+Material not found!: BRICK/BRICKWALL003A
+Material not found!: TILE/TILEROOF003A
+Material not found!: BRICK/BRICKFLOOR001A
+Material not found!: NATURE/GRAVELFLOOR003A
+Material not found!: MODELS/PROPS_DEBRIS/CONCRETEWALL019A
+Material not found!: NATURE/GRASSFLOOR002A
+Patching WVT material: maps/de_city_d/maps/terrain/blend_af_peak_soil_04_wvt_patch
+Patching WVT material: maps/de_city_d/maps/kandagal/blend_dirt_mud_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing E:\de_city_d.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Displacement A: Location: 232958.000000 2064170.000000 5023.574219
+Displacement B: Location: -316.000000 -2232.000000 39.000000
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (513949 bytes)
+Error loading studio model "models/props_foliage/tree_poplar_01.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2461 texinfos to 2041
+Reduced 52 texdatas to 47 (1537 bytes to 1346)
+Writing E:\de_city_d.bsp
+2 seconds elapsed
+
+
+
+12 threads
+reading e:\de_city_d.bsp
+reading e:\de_city_d.prt
+4086 portalclusters
+13677 numportals
+0...1...2...3...4...5...6...7...8...9...100...1..
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\insurgency2\insurgency\materials
+Loading E:\de_city_d.vmf
+Map revision 126
+Material not found!: BUILDING_TEMPLATE/BUILDING_TEMPLATE003N
+Material not found!: STONE/STONEWALL033A
+Material not found!: MODELS/PROPS_WASTELAND/DIRTWALL001A
+Material not found!: BRICK/BRICKWALL003A
+Material not found!: TILE/TILEROOF003A
+Material not found!: BRICK/BRICKFLOOR001A
+Material not found!: NATURE/GRAVELFLOOR003A
+Material not found!: MODELS/PROPS_DEBRIS/CONCRETEWALL019A
+Material not found!: NATURE/GRASSFLOOR002A
+Patching WVT material: maps/de_city_d/maps/terrain/blend_af_peak_soil_04_wvt_patch
+Patching WVT material: maps/de_city_d/maps/kandagal/blend_dirt_mud_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing E:\de_city_d.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Displacement A: Location: 6848.468750 -2748.000000 6687.472656
+Displacement B: Location: -316.000000 -2232.000000 39.000000
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (513949 bytes)
+Error loading studio model "models/props_foliage/tree_poplar_01.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2461 texinfos to 2041
+Reduced 52 texdatas to 47 (1537 bytes to 1346)
+Writing E:\de_city_d.bsp
+2 seconds elapsed
+
+
+
+12 threads
+reading e:\de_city_d.bsp
+reading e:\de_city_d.prt
+4086 portalclusters
+13677 numportals
+0...1...2...3...4...5...6...7...8...9...100...1..
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\insurgency2\insurgency\materials
+Loading E:\de_city_d.vmf
+Map revision 126
+Material not found!: BUILDING_TEMPLATE/BUILDING_TEMPLATE003N
+Material not found!: STONE/STONEWALL033A
+Material not found!: MODELS/PROPS_WASTELAND/DIRTWALL001A
+Material not found!: BRICK/BRICKWALL003A
+Material not found!: TILE/TILEROOF003A
+Material not found!: BRICK/BRICKFLOOR001A
+Material not found!: NATURE/GRAVELFLOOR003A
+Material not found!: MODELS/PROPS_DEBRIS/CONCRETEWALL019A
+Material not found!: NATURE/GRASSFLOOR002A
+Patching WVT material: maps/de_city_d/maps/terrain/blend_af_peak_soil_04_wvt_patch
+Patching WVT material: maps/de_city_d/maps/kandagal/blend_dirt_mud_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing E:\de_city_d.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Displacement A: Location: 200.000000 3900.916016 6687.917969
+Displacement B: Location: -316.000000 -2232.000000 39.000000
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (513949 bytes)
+Error loading studio model "models/props_foliage/tree_poplar_01.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2461 texinfos to 2041
+Reduced 52 texdatas to 47 (1537 bytes to 1346)
+Writing E:\de_city_d.bsp
+2 seconds elapsed
+
+
+
+12 threads
+reading e:\de_city_d.bsp
+reading e:\de_city_d.prt
+4086 portalclusters
+13677 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2..
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\insurgency2\insurgency\materials
+Loading E:\de_city_d.vmf
+Map revision 126
+Material not found!: BUILDING_TEMPLATE/BUILDING_TEMPLATE003N
+Material not found!: STONE/STONEWALL033A
+Material not found!: MODELS/PROPS_WASTELAND/DIRTWALL001A
+Material not found!: BRICK/BRICKWALL003A
+Material not found!: TILE/TILEROOF003A
+Material not found!: BRICK/BRICKFLOOR001A
+Material not found!: NATURE/GRAVELFLOOR003A
+Material not found!: MODELS/PROPS_DEBRIS/CONCRETEWALL019A
+Material not found!: NATURE/GRASSFLOOR002A
+Patching WVT material: maps/de_city_d/maps/terrain/blend_af_peak_soil_04_wvt_patch
+Patching WVT material: maps/de_city_d/maps/kandagal/blend_dirt_mud_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing E:\de_city_d.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Displacement A: Location: 200.000000 238202.000000 6687.324219
+Displacement B: Location: -316.000000 -2232.000000 39.000000
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (513949 bytes)
+Error loading studio model "models/props_foliage/tree_poplar_01.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2461 texinfos to 2041
+Reduced 52 texdatas to 47 (1537 bytes to 1346)
+Writing E:\de_city_d.bsp
+2 seconds elapsed
+
+
+
+12 threads
+reading e:\de_city_d.bsp
+reading e:\de_city_d.prt
+4086 portalclusters
+13677 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 59412 visible clusters (0.00%)
+Total clusters visible: 4250052
+Average clusters visible: 1040
+Building PAS...
+Average clusters audible: 3950
+visdatasize:3504214  compressed from 4184064
+writing e:\de_city_d.bsp
+7 hours, 38 minutes, 49 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\insurgency2\insurgency\materials
+Loading E:\de_city_d.vmf
+Map revision 132
+Material not found!: BUILDING_TEMPLATE/BUILDING_TEMPLATE003N
+Material not found!: STONE/STONEWALL033A
+Material not found!: MODELS/PROPS_WASTELAND/DIRTWALL001A
+Material not found!: BRICK/BRICKWALL003A
+Material not found!: TILE/TILEROOF003A
+Material not found!: BRICK/BRICKFLOOR001A
+Material not found!: NATURE/GRAVELFLOOR003A
+Material not found!: MODELS/PROPS_DEBRIS/CONCRETEWALL019A
+Material not found!: NATURE/GRASSFLOOR002A
+Patching WVT material: maps/de_city_d/maps/terrain/blend_af_peak_soil_04_wvt_patch
+Patching WVT material: maps/de_city_d/maps/kandagal/blend_dirt_mud_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing E:\de_city_d.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Displacement A: Location: 200.000000 -2748.000000 6687.292969
+Displacement B: Location: -316.000000 -2232.000000 39.000000
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (521620 bytes)
+Error loading studio model "models/props_foliage/tree_poplar_01.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2561 texinfos to 2087
+Reduced 53 texdatas to 48 (1566 bytes to 1375)
+Writing E:\de_city_d.bsp
+2 seconds elapsed
+
+
+
+12 threads
+reading e:\de_city_d.bsp
+reading e:\de_city_d.prt
+4058 portalclusters
+13574 numportals
+0...1...2...3...4...5...6...7...8...9...100...1.
